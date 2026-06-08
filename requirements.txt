@@ -1,0 +1,5 @@
+# Gradio itself is installed by HF Spaces from the `sdk_version` in README.md,
+# so we only list the model dependencies here.
+pandas>=2.0
+scikit-learn>=1.3
+numpy>=1.24
